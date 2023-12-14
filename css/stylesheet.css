@@ -1,0 +1,48 @@
+.heading { color: #FF90BC;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 45px;
+    text-align: center;
+    
+    }
+    .subheading { color: #FFC0D9;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    }
+    body {
+        background-color: #F9F9E0;
+    
+    }
+    .albums {
+        color: #82A0D8;
+        font-size: 20px;
+        text-align: center;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    .list
+    {
+        text-align: center;
+        color: #3A4D39;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: 15px;
+    }
+    ul { 
+        list-style-type: none; 
+        padding: 0; 
+    } 
+    li { 
+        text-align: center; 
+    } 
+    li::before { 
+        content: '• '; 
+    } 
+    .pic { margin-top: 20px;
+        padding-left: 225px;
+
+    }
+    iframe {
+        margin-bottom: 50px;
+        margin-left: 525px;
+    }
+   
